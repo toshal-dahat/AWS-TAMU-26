@@ -24,7 +24,7 @@ Policies:       AmazonBedrockFullAccess ✓  AmazonS3FullAccess ✓
 
 ## S3
 ```
-Bucket Name:    axis-interviews-[YOURTEAMNAME]
+Bucket Name:    axis-interviews-team21
 CORS:           ✓ Configured
 ```
 
